@@ -4,7 +4,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturd
 
 ## Installation
 
-``` git clone https://github.com/haozdal/kodluyoruzilkrepo.git
+```https://github.com/haozdal/kodluyoruzilkrepo.git
 https://github.com/haozdal/kodluyoruzilkrepo.git
 ```
 

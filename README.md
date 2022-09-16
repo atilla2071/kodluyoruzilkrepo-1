@@ -14,4 +14,6 @@ git clone https://github.com/haozdal/kodluyoruzilkrepo.git
 
 ## License
 
+##Bga
+
 [MIT](https://choosealicense.com/licenses/mit/)
